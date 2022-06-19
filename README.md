@@ -4,6 +4,9 @@
 - github : https://github.com/RexShack
 - support-me : https://rexshackgaming.tebex.io/package/5114907
 
+# Andyauk
+- github : https://github.com/Andyauk
+
 # Framework QBCore RedM Edition
 - https://github.com/qbcore-redm-framework
 
@@ -12,10 +15,10 @@
 
 # Installation
 - ensure that the dependancies are added and started
-- add rsg_storage to your resources folder
+- add rsg_peds to your resources folder
 
 # Starting the resource
-- add the following to your server.cfg file : ensure rsg_storage
+- add the following to your server.cfg file : ensure rsg_peds
 
 # Support
 - discord : https://discord.gg/s5uSk56B65
