@@ -1,3 +1,6 @@
+This will spawn peds/npc to your stores. 
+thanks to RexshackGaming for letting me use some of his code.
+
 # RexshackGaming
 - discord : https://discord.gg/s5uSk56B65
 - youtube : https://www.youtube.com/channel/UCikEgGfXO-HCPxV5rYHEVbA
