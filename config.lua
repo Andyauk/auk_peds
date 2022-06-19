@@ -34,10 +34,11 @@ Config.peds = {
 	[26] = { ["Model"] = "U_F_M_TljBartender_01", ["Pos"] = vector3(2792.69, -1167.91, 47.93 -1), ["Heading"] = 263.45 }, -- saint denis
 	[27] = { ["Model"] = "U_M_O_ValBartender_01", ["Pos"] = vector3(2948.26, 528.13, 45.34 -1), ["Heading"] = 176.22 }, -- van horn
 	[28] = { ["Model"] = "U_F_M_TljBartender_01", ["Pos"] = vector3(1450.98, 369.38, 89.89 -1), ["Heading"] = 87.73 }, -- emerald ranch
+        [29] = { ["Model"] = "U_F_M_TljBartender_01", ["Pos"] = vector3(1299.21, -6808.68, 43.64 -1), ["Heading"] = 158.54 }, --guarma
 	--Hardware
-	[29] = { ["Model"] = "U_M_O_VhTExoticShopkeeper_01", ["Pos"] = vector3(1420.69, 381.19, 90.33 -1), ["Heading"] = 169.56 }, -- valentine	
+	[30] = { ["Model"] = "U_M_O_VhTExoticShopkeeper_01", ["Pos"] = vector3(1420.69, 381.19, 90.33 -1), ["Heading"] = 169.56 }, -- valentine	
         --Blackmarket
-	[30] = { ["Model"] = "U_M_O_VhTExoticShopkeeper_01", ["Pos"] = vector3(1320.5, -1142.48, 82.35 -1), ["Heading"] = 255.14 }, -- rhodes	
-	[31] = { ["Model"] = "U_M_O_VhTExoticShopkeeper_01", ["Pos"] = vector3(-4987.44, -4807.32, -9.79 -1), ["Heading"] = 57.07 }, -- mexico	
-	[32] = { ["Model"] = "U_M_O_VhTExoticShopkeeper_01", ["Pos"] = vector3(2923.09, 1351.29, 44.86 -1), ["Heading"] = 284.07 }, --  annesburg
+	[31] = { ["Model"] = "U_M_O_VhTExoticShopkeeper_01", ["Pos"] = vector3(1320.5, -1142.48, 82.35 -1), ["Heading"] = 255.14 }, -- rhodes	
+	[32] = { ["Model"] = "U_M_O_VhTExoticShopkeeper_01", ["Pos"] = vector3(-4987.44, -4807.32, -9.79 -1), ["Heading"] = 57.07 }, -- mexico	
+	[33] = { ["Model"] = "U_M_O_VhTExoticShopkeeper_01", ["Pos"] = vector3(2923.09, 1351.29, 44.86 -1), ["Heading"] = 284.07 }, --  annesburg
 }
