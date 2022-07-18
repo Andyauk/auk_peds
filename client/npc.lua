@@ -33,5 +33,6 @@ Citizen.CreateThread(function()
     SetEntityCanBeDamagedByRelationshipGroup(npc, false, `PLAYER`)
     SetEntityAsMissionEntity(npc, true, true)
     SetModelAsNoLongerNeeded(GetHashKey(Config.peds[z]["Model"]))
+    SetBlockingOfNonTemporaryEvents(npc, true) -- NPC can't be scared        
     end
 end)
