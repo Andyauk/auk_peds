@@ -12,7 +12,7 @@ Config.peds = {
 	[8] = { ["Model"] = "U_M_M_SDEXOTICSSHOPKEEPER_01", ["Pos"] = vector3(-784.76, -1322.13, 43.88 -1), ["Heading"] = 184.12 }, -- blackwater
 	[9] = { ["Model"] = "U_M_O_VhTExoticShopkeeper_01", ["Pos"] = vector3(3025.49, 561.9, 44.72 -1), ["Heading"] = 257.37 }, -- van horn
 	[10] = { ["Model"] = "U_M_M_SDEXOTICSSHOPKEEPER_01", ["Pos"] = vector3(-2134.69, -3412.09, 38.69 -1), ["Heading"] = 41.47 }, -- mexico fort
-	[11] = { ["Model"] = "U_M_M_SDEXOTICSSHOPKEEPER_01", ["Pos"] = vector3(1175.31, -7243.5, 69.81 -1), ["Heading"] = 337.08 }, -- Guarma fort
+	[11] = { ["Model"] = "U_M_O_VhTExoticShopkeeper_01", ["Pos"] = vector3(1175.31, -7243.5, 69.81 -1), ["Heading"] = 337.08 }, -- Guarma fort
 	-- Gunsmith
 	[12] = { ["Model"] = "U_M_M_AsbGunsmith_01", ["Pos"] = vector3(-280.97, 778.88, 119.5 -1), ["Heading"] = 356.41 }, -- valentine
 	[13] = { ["Model"] = "U_M_M_NbxGunsmith_01", ["Pos"] = vector3(-5506.39, -2963.97, -0.64 -1), ["Heading"] = 100.69 }, -- tumbleweed
@@ -29,9 +29,9 @@ Config.peds = {
 	[22] = { ["Model"] = "U_F_M_TljBartender_01", ["Pos"] = vector3(-817.8, -1319.32, 43.68 -1), ["Heading"] = 279.95 }, -- blackwater
 	[23] = { ["Model"] = "U_M_O_ValBartender_01", ["Pos"] = vector3(1340.21, -1374.77, 80.48 -1), ["Heading"] = 263.45 }, -- rhodes
 	[24] = { ["Model"] = "U_F_M_TljBartender_01", ["Pos"] = vector3(2792.69, -1167.91, 47.93 -1), ["Heading"] = 263.45 }, -- saint denis
-	[25] = { ["Model"] = "U_F_M_TljBartender_01", ["Pos"] = vector3(2639.89, -1224.78, 53.38 -1), ["Heading"] = 91.69 }, -- saint denis2	
-	[26] = { ["Model"] = "U_M_O_ValBartender_01", ["Pos"] = vector3(2948.26, 528.13, 45.34 -1), ["Heading"] = 176.22 }, -- van horn
-	[27] = { ["Model"] = "U_F_M_TljBartender_01", ["Pos"] = vector3(1450.98, 369.38, 89.89 -1), ["Heading"] = 87.73 }, -- emerald ranch
+	[25] = { ["Model"] = "U_M_O_ValBartender_01", ["Pos"] = vector3(2639.89, -1224.78, 53.38 -1), ["Heading"] = 91.69 }, -- saint denis2	
+	[26] = { ["Model"] = "U_F_M_TljBartender_01", ["Pos"] = vector3(2948.26, 528.13, 45.34 -1), ["Heading"] = 176.22 }, -- van horn
+	[27] = { ["Model"] = "U_M_O_ValBartender_01", ["Pos"] = vector3(1450.98, 369.38, 89.89 -1), ["Heading"] = 87.73 }, -- emerald ranch
         [28] = { ["Model"] = "U_F_M_TljBartender_01", ["Pos"] = vector3(1299.21, -6808.68, 43.64 -1), ["Heading"] = 158.54 }, --guarma
 	-- Hardware
 	[29] = { ["Model"] = "U_M_O_VhTExoticShopkeeper_01", ["Pos"] = vector3(1420.69, 381.19, 90.33 -1), ["Heading"] = 169.56 }, -- valentine	
