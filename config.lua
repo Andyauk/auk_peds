@@ -63,5 +63,5 @@ Config.peds = {
 	[49] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(-306.35, 773.25, 118.7 -1), ["Heading"] = 329.92 }, -- Valentine
 	[50] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(-813.18, -1275.1, 43.64 -1), ["Heading"] = 180.96 }, -- Blackwater
 	[51] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(-820.75, -1278.96, 43.64 -1), ["Heading"] = 268.62 }, -- Blackwater
-	[52] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(-3666.12, -2629.05, -13.56) -1), ["Heading"] = 0.83 }, -- Armadillo
+	[52] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(-3666.12, -2629.05, -13.56 -1), ["Heading"] = 0.83 }, -- Armadillo
 }
