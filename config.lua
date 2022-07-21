@@ -55,13 +55,13 @@ Config.peds = {
 	[42] = { ["Model"] = "CS_nbxreceptionist_01", ["Pos"] = vector3(1200.9, -1231.66, 74.44 -1), ["Heading"] = 86.21 }, -- Rhodes
 	[43] = { ["Model"] = "CS_nbxreceptionist_01", ["Pos"] = vector3(2881.78, 1469.5, 68.76 -1), ["Heading"] = 118.76 }, -- annesburg
 	-- Bank
-	[44] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(1291.16748046875, -1303.3929443359375, 77.04120635986328 -1), ["Heading"] = -39.15393829345703 }, -- Rhodes
-	[45] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(1292.7667236328125, -1304.8292236328125, 77.04267883300781 -1), ["Heading"] = -38.27278900146484 }, -- Rhodes
-	[46] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(2644.82470703125, -1293.88623046875, 52.24774932861328 -1), ["Heading"] = 24.46722221374511 }, -- Saint Denis
-	[47] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(2650.200927734375, -1305.304443359375, 52.26079940795898 -1), ["Heading"] = 26.54940414428711 }, -- Saint Denis
-	[48] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(-308.1111145019531, 773.9920043945312, 118.70309448242188 -1), ["Heading"] = 8.93415641784668 }, -- Valentine
-	[49] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(-306.2430114746094, 773.378662109375, 118.70309448242188 -1), ["Heading"] = -33.39679336547851 }, -- Valentine
-	[50] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(-820.9907836914062, -1278.8634033203125, 43.63804626464844 -1), ["Heading"] = -71.70177459716797 }, -- Blackwater
-	[51] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(-813.1812744140625, -1275.3433837890625, 43.63771438598633 -1), ["Heading"] = 179.87091064453125 }, -- Blackwater
-	[52] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(-3666.1162109375, -2628.576171875, -13.58811855316162 -1), ["Heading"] = 6.61411952972412 }, -- Armadillo
+	[44] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(1291.25, -1303.25, 77.04 -1), ["Heading"] = 322.81 }, -- Rhodes
+	[45] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(1292.56, -1304.94, 77.04 -1), ["Heading"] = 323.6 }, -- Rhodes
+	[46] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(2645.04, -1294.39, 52.25 -1), ["Heading"] = 30.5 }, -- Saint Denis
+	[47] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(2650.39, -1305.72, 52.27 -1), ["Heading"] = 30.5 }, -- Saint Denis
+	[48] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(-308.09, 773.59, 118.7 -1), ["Heading"] = 30.5 }, -- Valentine
+	[49] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(-306.35, 773.25, 118.7 -1), ["Heading"] = 329.92 }, -- Valentine
+	[50] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(-813.18, -1275.1, 43.64 -1), ["Heading"] = 180.96 }, -- Blackwater
+	[51] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(-820.75, -1278.96, 43.64 -1), ["Heading"] = 268.62 }, -- Blackwater
+	[52] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(-3666.12, -2629.05, -13.56) -1), ["Heading"] = 0.83 }, -- Armadillo
 }
