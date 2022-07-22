@@ -1,3 +1,5 @@
+Config = {}
+
 Config.peds = {
 	-- General Store
 	[1] = { ["Model"] = "U_M_O_VhTExoticShopkeeper_01", ["Pos"] = vector3(1329.84, -1294.29, 77.02 -1), ["Heading"] = 73.02 }, -- rhodes
