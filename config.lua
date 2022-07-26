@@ -64,4 +64,11 @@ Config.peds = {
 	[50] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(-820.9907836914062, -1278.8634033203125, 43.63804626464844 -1), ["Heading"] = -71.70177459716797 }, -- Blackwater
 	[51] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(-813.1812744140625, -1275.3433837890625, 43.63771438598633 -1), ["Heading"] = 179.87091064453125 }, -- Blackwater
 	[52] = { ["Model"] = "S_M_M_BankClerk_01", ["Pos"] = vector3(-3666.1162109375, -2628.576171875, -13.58811855316162 -1), ["Heading"] = 6.61411952972412 }, -- Armadillo
+        -- Clothing Store
+	[53] = { ["Model"] = "s_m_m_tailor_01", ["Pos"] = vector3(2554.6, -1166.83, 52.7 -1), ["Heading"] = 180.95 }, -- Saint Denis
+	[54] = { ["Model"] = "s_m_m_tailor_01", ["Pos"] = vector3(-761.75, -1293.92, 42.84 -1), ["Heading"] = 357.16 }, -- Blackwater
+	[55] = { ["Model"] = "s_m_m_tailor_01", ["Pos"] = vector3(-325.67, 772.63, 116.44 -1), ["Heading"] = 11.3 }, -- Valentine
+	[56] = { ["Model"] = "s_m_m_tailor_01", ["Pos"] = vector3(1326.11, -1288.78, 76.02 -1), ["Heading"] = 194.36 }, -- Rhodes
+	[57] = { ["Model"] = "s_m_m_tailor_01", ["Pos"] = vector3(-5483.86, -2932.48, -1.4 -1), ["Heading"] = 137.06 }, -- Tumbleweed
+	[58] = { ["Model"] = "s_m_m_tailor_01", ["Pos"] = vector3(-3681.88, -2627.49, -14.43 -1), ["Heading"] = 5.85 }, -- Armadillo
 }
