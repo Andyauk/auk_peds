@@ -1,6 +1,6 @@
 Config = {}
 
-Config.peds = {
+Config.Npc = {
 	-- General Store
 	[1] = { ["Model"] = "U_M_O_VhTExoticShopkeeper_01", ["Pos"] = vector3(1329.84, -1294.29, 77.02 -1), ["Heading"] = 73.02 }, -- rhodes
 	[2] = { ["Model"] = "U_M_M_SDEXOTICSSHOPKEEPER_01", ["Pos"] = vector3(-324.12, 803.44, 117.88 -1), ["Heading"] = 275.36 }, -- valentine

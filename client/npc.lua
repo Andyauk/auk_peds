@@ -15,12 +15,12 @@ end
 
 -- load NPCs
 Citizen.CreateThread(function()
-    for z, x in pairs(Config.peds) do
-    while not HasModelLoaded( GetHashKey(Config.peds[z]["Model"]) ) do
+    for z, x in pairs(Config.Npc) do
+    while not HasModelLoaded( GetHashKey(Config.Npc[z]["Model"]) ) do
         Wait(500)
-        modelrequest( GetHashKey(Config.peds[z]["Model"]) )
+        modelrequest( GetHashKey(Config.Npc[z]["Model"]) )
     end
-    local npc = CreatePed(GetHashKey(Config.peds[z]["Model"]), Config.peds[z]["Pos"].x, Config.peds[z]["Pos"].y, Config.peds[z]["Pos"].z, Config.peds[z]["Heading"], false, false, 0, 0)
+    local npc = CreatePed(GetHashKey(Config.Npc[z]["Model"]), Config.Npc[z]["Pos"].x, Config.Npc[z]["Pos"].y, Config.Npc[z]["Pos"].z, Config.Npc[z]["Heading"], false, false, 0, 0)
     while not DoesEntityExist(npc) do
         Wait(300)
     end
@@ -29,10 +29,10 @@ Citizen.CreateThread(function()
     SetEntityInvincible(npc, true)
     TaskStandStill(npc, -1)
     Wait(100)
-    SET_PED_RELATIONSHIP_GROUP_HASH(npc, GetHashKey(Config.peds[z]["Model"]))
+    SET_PED_RELATIONSHIP_GROUP_HASH(npc, GetHashKey(Config.Npc[z]["Model"]))
     SetEntityCanBeDamagedByRelationshipGroup(npc, false, `PLAYER`)
     SetEntityAsMissionEntity(npc, true, true)
-    SetModelAsNoLongerNeeded(GetHashKey(Config.peds[z]["Model"]))
+    SetModelAsNoLongerNeeded(GetHashKey(Config.Npc[z]["Model"]))
     SetBlockingOfNonTemporaryEvents(npc, true) -- NPC can't be scared        
     end
 end)
